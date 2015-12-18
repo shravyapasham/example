@@ -1,4 +1,4 @@
 
 # first sample project
-## example
+** example **
 This example displays example work flows
